@@ -1,0 +1,303 @@
+games_01
+
+titre : Age of Empires IV
+
+description :
+
+L’un des jeux de stratégie en temps réel les plus appréciés fait son grand retour avec Age of Empires IV, vous plaçant au cœur des batailles historiques qui ont marqué l’Histoire. 
+
+catégorie :
+
+stratégie
+temps réel
+multijoueur
+PvP
+
+
+games_02 
+
+Titre : Forza Horizon 5 
+
+Description :
+
+La toute dernière aventure Horizon n'attend que vous ! Partez pour des expéditions à couper le souffle dans un monde ouvert vivant et en constant changement situé dans les paysages magnifiques du Mexique et vibrez au volant de plusieurs centaines de voitures parmi les plus belles au monde.
+
+Catégorie :
+
+course automobile
+monde ouvert
+sport
+
+
+games_03
+
+Titre : StarCraft 2: Wings of Liberty
+
+Description : Starcraft 2 : Wings of Liberty est un jeu de stratégie en temps réel de science-fiction. Il s'agit d'une suite du jeu original, de la série de jeux Brood War et de la première suite de Starcraft. Il comprend également un pack d'expansion important qui a été publié en plusieurs sections après la sortie du jeu original.
+
+Catégorie :
+
+stratégie
+temps réel
+multijoueur
+PvP
+
+
+games_04
+
+Titre : Far Cry 6
+
+Description : Bienvenue à Yara, un paradis tropical figé dans le temps. Anton Castillo, dictateur de l'île, est bien décidé à faire retrouver sa gloire d'antan à la nation, et son fils Diego suit les traces sanglantes de son père. Incarnez un combattant de la révolution et mettez un terme à leur régime de terreur !
+
+Catégorie :
+
+FPS
+monde ouvert
+coop
+multijoueur
+
+
+games_05
+
+Titre : Crysis 4
+
+Description : Anéantissez la corporation C.E.L.L. à l'aide d'armes puissantes et de modules de nanocombinaison exclusifs débloqués instantanément avec l'Édition Digitale Deluxe. Lecteur d'écran pris en charge.
+
+Catégorie :
+
+FPS
+Tir
+
+
+games_06
+
+Titre : Two Point Hospital
+
+Description : Two Point Hospital pour PC a une intrigue peu probable pour un jeu qui rencontre un certain succès car le joueur prend le rôle d'un directeur d'établissement chargé de construire et de gérer un hôpital. Il s'agit d'un travail complet, avec la prise en compte des besoins des utilisateurs des bâtiments : distributeurs automatiques, sièges, toilettes et d'autres besoins dont le joueur devra tenir compte lors de la construction de son hôpital, entre autres.
+
+Catégorie :
+
+Simulation
+Gestion
+Gestion Médical
+
+
+games_07
+
+Titre : Minecraft
+
+Description : Minecraft pour PC est le jeu vidéo le plus vendu de tous les temps. Rien que cela devrait suffire à vous convaincre, mais voici un peu plus d'informations sur les raisons pour lesquelles vous devriez commencer à jouer dès maintenant. C'est un jeu de bac à sable (sandbox) dans lequel les joueurs doivent extraire, construire et fabriquer pour créer leur monde idéal et on peut voir des réalisations fascinantes !
+
+Catégorie :
+
+Bac à sable
+Aventure
+
+
+games_08
+
+Titre : League of Legends
+
+Description :
+
+League of Legends est un jeu MOBA (massively online battle arena) qui s'inspire de Dota,
+lui-même un MOBA très apprécié.
+
+Catégorie :
+
+Moba
+Multijoueur
+
+
+games_09
+
+Titre : Diablo IV
+
+Description :
+
+Diablo IV (ou Diablo 4) est le prochain jeu vidéo de type hack’n’slash développé par Blizzard, quatrième jeu de la franchise éponyme. Vivement attendu par les fans, il avait été annoncé lors de la BlizzCon 2019. Il devrait sortir sur PC Windows, PlayStation 4 et Xbox One. Il sera normalement disponible après la sortie de Diablo II: Resurrected
+
+Catégorie :
+
+Hack’n’slash
+Solo
+
+
+
+games_10
+
+Titre : Call of Duty: Vanguard
+
+Description :
+
+Vous serez sur tous les fronts : combat aérien au-dessus du Pacifique, parachutage au-dessus de la France, défendez Stalingrad avec la précision d'un tireur d'élite et faites exploser les forces qui progressent dans votre direction en Afrique du Nord. La franchise Call of Duty® revient avec Call of Duty®: Vanguard, développé par Sledgehammer Games, où les joueurs seront plongés dans la Seconde Guerre mondiale, au milieu de combats sanglants et, grande première, aux 4 coins du monde.
+
+Catégorie :
+
+FPS
+Solo
+Multijoueur
+Coopération
+
+
+games_11
+
+Titre : Resident Evil Village
+
+Description :
+
+Survie et épouvante atteignent des sommets dans le 8e titre de la franchise Resident Evil : Resident Evil Village. Graphismes ultra-détaillés, action intense en vue subjective et récit palpitant : la peur n'a jamais été aussi palpable.
+
+Catégorie 
+
+Horreur et Survie
+Solo
+
+
+games_12
+
+Titre : Death Stranding
+
+Description :
+
+Le légendaire créateur de jeu vidéo Hideo Kojima revient avec une nouvelle expérience unique en son genre. Sam Bridges affronte un monde totalement transformé par le Death Stranding. 
+
+Catégorie :
+
+Monde ouvert
+Aventure
+
+
+games_13
+
+Titre : Cyberpunk 2077
+
+Description :
+
+Cyberpunk 2077 est un jeu d’action-aventure en monde ouvert qui se déroule à Night City, une mégalopole obsédée par le pouvoir, la séduction et les modifications corporelles. Vous incarnez V, mercenaire hors-la-loi à la recherche d’un implant unique qui serait la clé de l’immortalité.
+
+Catégorie :
+
+Mondeo ouvert
+RPG
+
+
+games_14
+
+Titre : Star Citizen
+
+Description :
+
+Présenté comme une simulation de vie futuriste, Star Citizen (initié par Chris Roberts, créateur de la licence Wing Commander) se veut un univers virtuel ouvert, économique, social ainsi que des combats spatiaux dynamiques et stratégique.
+
+Catégorie :
+
+RPG
+MMO
+MMORPG
+
+
+games_15
+
+Titre : Grand Theft Auto V
+
+Description :
+
+Grand Theft Auto V sur PC offre aux joueurs la possibilité d'explorer le monde de Los Santos et Blaine County en haute résolution (jusqu'à 4K) et à 60 images par seconde.
+
+Catégorie :
+
+Monde ouvert
+Multijoueur
+
+
+games_16
+
+Titre : Red Dead Redemption 2
+
+Description :
+
+Red Dead Redemption 2, le jeu épique en monde ouvert de Rockstar Games acclamé par la critique et le mieux noté de cette génération de consoles, arrive maintenant sur PC avec du contenu inédit pour le mode Histoire, des améliorations graphiques et bien plus.
+
+Catégorie :
+
+Monde ouvert
+Western
+Aventure
+
+
+
+games_17
+
+Titre : Microsoft Flight Simulator X
+
+Description :
+
+Microsoft Flight Simulator est la nouvelle génération de l'une des franchises de simulation les plus adulées. Des avions légers aux gros porteurs, pilotez des avions hautement détaillés et éblouissants dans un monde hyperréaliste. Créez votre plan de vol et rendez-vous partout où vous le voulez. Profitez de voler de jour comme de nuit et faites face à des conditions climatiques réalistes et exigeantes.
+
+Catégorie :
+
+Simulation
+Monde ouvert
+Multijoueur
+
+
+games_18
+
+Titre : World of Warcraft
+
+Description :
+
+Pénétrez dans le jeu en ligne n°1 dans le monde grâce à la collection complète de World of Warcraft. Cette collection épique rassemble le jeu World of Warcraft ainsi que The Burning Crusade et Warth of the Lich King, ses deux premières extensions ! Créez de nouveaux héros et accomplissez des quêtes jusqu'au niveau 80. Explorez les trois immenses continents de l'univers de World of Warcraft tandis que vous luttez et vivez l'aventure aux côtés de vos amis.
+
+Catégorie :
+
+MMO
+Multijoueur
+
+
+games_19
+
+Titre : DOOM Eternal
+
+Description :
+
+Les armées de l'enfer ont envahi la Terre. Incarnez le Slayer dans une campagne en solo où vous terrasserez des démons et arrêterez la destruction de l'humanité. La seule chose qui les effraie... c'est vous. 
+
+Catégorie :
+
+FPS
+Action
+Tir
+
+
+games_20
+
+Titre : Assassin’s Creed Valhalla
+
+Description :
+
+Assassin's Creed Valhalla pour PC est le 12ème épisode de la série Assassin's Creed, et ce dernier se déroule au 9ème siècle (à partir de 873) et vous emmène partout en Europe pour faire voyager votre clan d'une Norvège gravement surpeuplée et déchirée par la guerre vers l'Angleterre, une terre verdoyante où règnent la paix, la prospérité et des champs fertiles où vous pourrez faire pousser vos récoltes. Le Royaume-Uni a peut-être la réputation d'être un pays froid et pluvieux, mais comparé à la désolation qui règne en Arctique, ce n'est pas si mal comme substitut ! Il s'agit d'un jeu d'action et d'aventure dans un open world.
+
+Catégorie :
+
+Monde ouvert
+Aventure
+
+
+games_21
+
+Titre :
+
+Description :
+
+Catégorie :
+
+
+games_22
+
+Titre :
+
+Description :
+
+Catégorie :

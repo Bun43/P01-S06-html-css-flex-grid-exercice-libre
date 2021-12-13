@@ -1,159 +1,135 @@
-.container {
-    margin: auto;
-    padding: auto;
+body {
     width: 80%;
+    margin: auto;
+    background-image: url("../images/wallpaper.jpg");
+    background-attachment: fixed;
 }
 
-.entete, .logo, .titre {
-    height: 5em;
-}
-.logo {
-    align-content: center;
+#logo {
+    margin-left: 10%;
+    height: 100%;
     grid-area: logo;
-    height: 5em;
 }
 
-.navigation_item {
-    align-content: space-between;
-}
-
-.navigation {
-    grid-area: navigation;
-}
-
-.titre {
+#titre {
     grid-area: titre;
-    font-size: 2em;
+    margin-top: 1em;
+    font-family: 'Luxurious Script', cursive;
+    color: aliceblue;
+    font-size: 4em;
 }
 
-.navigation {
-    display: inline;
-    grid-area: navigation;
+#menu {
+    grid-area: menu;
+    text-align: center;
 }
 
-nav {
-    align-content: space-between;
+nav a {
+    color: greenyellow;
+    margin-left: 1em;
+    margin-right: 1em;
 }
-
-.entete {
-    display: grid;
-    grid-template-rows: 50% 50%;
-    grid-template-areas: 
-    "logo titre"
-    ". navigation";
-    padding: 5em;
-    align-content: space-between;
-}
-
-#big01 {
+#header {
+    background-image: url("../images/big_img.jpg");
+    border-radius: 50% 50% 50% 50%;
     width: 100%;
-    align-content: center;
-    position: relative;
-    align-items: center;
-    align-content: center;
-}
-
-#big01 p {
-    align-content: center;
-    margin: 5%;
-    width: 40%;
-    position: absolute;
-    background-color: rgba(255, 255, 255, 0.6);
-    top: 50%;
-}
-
-.game_01 {
-    grid-area: game_01;
-}
-
-.game_02 {
-    grid-area: game_02;
-}
-
-.game_03 {
-    grid-area: game_03;
-}
-.game_04 {
-    grid-area: game_04;
-}
-.game_05 {
-    grid-area: game_05;
-}
-.game_06 {
-    grid-area: game_06;
-}
-.game_07 {
-    grid-area: game_07;
-}
-.game_08 {
-    grid-area: game_08;
-}
-.game_09 {
-    grid-area: game_09;
-}
-.game_10 {
-    grid-area: game_10;
-}
-.game_11 {
-    grid-area: game_11;
-}
-.game_12 {
-    grid-area: game_12;
-}
-.game_13 {
-    grid-area: game_13;
-}
-.game_14 {
-    grid-area: game_14;
-}
-.game_15 {
-    grid-area: game_15;
-}
-.game_16 {
-    grid-area: game_16;
-}
-.game_17 {
-    grid-area: game_17;
-}
-.game_18 {
-    grid-area: game_18;
-}
-.game_19 {
-    grid-area: game_19;
-}
-.game_20 {
-    grid-area: game_20;
-}
-
-.galerie {
+    margin-bottom: 5em;
+    margin-top: 1em;
+    align-content: space-between;
     display: grid;
-    grid-column: 15% 15% 15% 15% 15%;
-    grid-template-areas: 
-    "game_01 game_02 game_03 game_04 game_05"
-    "game_06 game_07 game_08 game_09 game_10"
-    "game_11 game_12 game_13 game_14 game_15"
-    "game_16 game_17 game_18 game_19 game_20";
-    gap: 1%;
+    grid-template-columns: 50% 50%;
+    grid-template-areas:
+    "logo titre"
+    "logo menu";
 }
 
-.galerie h3 {
+#header, #logo img {
+    height: 15em;
+}
+
+#imgatexte {
+    margin-bottom: 5em;
+}
+
+#imagetexte img {
+    width: 100%;
+    border-radius: 10% 10% 10% 10%;
     text-align: center;
-    font-size: 1.5em;
+    position: relative;
+    margin-bottom: 5em;
+}
+
+#imagetexte h2{
+    color: aliceblue;
+}
+
+#imagetexte p {
+    color: white;
+}
+
+#presentation {
+    position: absolute;
+    width: 60%;
+    top: 50%;
+    left: 20%;
+    background-color: rgba(128, 128, 128, 0.6);
+}
+
+#presentation h2 {
+    text-transform: uppercase;
+    font-size: 2em;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 1em;
+}
+#presentation div {
+    width: 100%;
+    border-bottom: 2px solid red;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+#galerie img {
+    width: 100%;
+}
+#galerie {
+    display: grid;
+    grid-template-columns: 18% 18% 18% 18% 18%;
+    gap: 2.5%;
+    grid-template-areas:
+    "";
+}
+
+#galerie figure {
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+#galerie figure h3 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
     font-weight: bold;
-    color: red;
-    padding: 1em;
-}
-
-.galerie p {
+    font-size: 1.2em;
     text-align: center;
-    justify-content: space-around;
-    padding: 2em;
+    color: rgba(255, 0, 0);
 }
 
-.galerie figure {
-    border: gray 1px solid;
+#galerie figure div {
+    font-weight: bold;
+    text-decoration-line: underline;
+    margin-bottom: 1em;
+    margin-left: 1em;
 }
 
-footer {
+#galerie figure p {
+    margin: 1em;
+    color: black;
+    font-style: italic;
+}
+
+#footer {
+    font-weight: bold;
+    background-color: gray;
     text-align: center;
 }
